@@ -20,3 +20,4 @@
 - 16-whatsnext: Displays root lines and the three following lines.
 - 17-hidethisword: Displays lines that do not contain bin.
 - 18-letteronly: Displays lines starting with a letter.
+- 19-AZ: Replaces A with Z and c with e.
