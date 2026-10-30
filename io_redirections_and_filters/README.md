@@ -24,3 +24,4 @@
 - 20-hiago: Removes all c and C characters from input.
 - 21-reverse: Reverses input text.
 - 22-users_and_homes: Displays users and their home directories, sorted by username.
+- 23-empty_casks: Finds empty files and directories, including hidden ones, and displays names only.
