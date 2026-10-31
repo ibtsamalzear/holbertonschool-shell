@@ -1,5 +1,2 @@
 #!/bin/bash
-water_num=$(printf '%s' "$WATER" | tr 'water' '01234')
-stir_num=$(printf '%s' "$STIR" | tr 'stir.' '01234')
-sum=$((5#$water_num + 5#$stir_num))
-printf '%o\n' "$sum" | tr '01234567' 'bestchol'
+printf '%o\n' "$((5#$(printf '%s' "$WATER" | tr 'water' '01234') + 5#$(printf '%s' "$STIR" | tr 'stir.' '01234')))" | tr '01234567' 'bestchol'
