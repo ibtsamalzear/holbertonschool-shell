@@ -26,3 +26,4 @@
 - 22-users_and_homes: Displays users and their home directories, sorted by username.
 - 23-empty_casks: Finds empty files and directories, including hidden ones, and displays names only.
 - 24-gifs: Lists GIF filenames without extensions, sorted case-insensitively.
+- 26-the_biggest_fan: Displays the 11 hosts with the most requests.
