@@ -1,3 +1,2 @@
-# holbertonschool-shell
-
-This repository contains shell basics projects and scripts for learning Linux and Bash.
+# Shell, init files, variables and expansions
+This project contains scripts for shell variables, aliases, and expansions.
